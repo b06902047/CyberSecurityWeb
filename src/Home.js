@@ -1,4 +1,4 @@
-import photo from './photograph.png';
+import myphoto from './photograph.png';
 import Intro from './Components/Intro';
 import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
@@ -11,7 +11,6 @@ const useStyles = makeStyles((theme) => ({
 
 function Home() {
     const classes = useStyles();
-    const myphoto=photo;
     return (
         <>
         <Grid container className={classes.root} spacing={2}>
