@@ -1,4 +1,4 @@
-import photo from './photo/photograph.jpg';
+import photo from './photograph.png';
 import Intro from './Components/Intro';
 import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
