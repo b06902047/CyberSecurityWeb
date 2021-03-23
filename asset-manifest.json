@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.8c8b27cf.chunk.css",
-    "main.js": "./static/js/main.f4f6b53a.chunk.js",
-    "main.js.map": "./static/js/main.f4f6b53a.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.7ea0d4a6.js",
-    "runtime-main.js.map": "./static/js/runtime-main.7ea0d4a6.js.map",
-    "static/js/2.4eba6417.chunk.js": "./static/js/2.4eba6417.chunk.js",
-    "static/js/2.4eba6417.chunk.js.map": "./static/js/2.4eba6417.chunk.js.map",
-    "static/js/3.f142fecc.chunk.js": "./static/js/3.f142fecc.chunk.js",
-    "static/js/3.f142fecc.chunk.js.map": "./static/js/3.f142fecc.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "./static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4eba6417.chunk.js.LICENSE.txt": "./static/js/2.4eba6417.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg",
-    "static/media/photograph.6c06b8eb.png": "./static/media/photograph.6c06b8eb.png"
+    "main.css": "/CyberSecurityWeb/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/CyberSecurityWeb/static/js/main.53400f0b.chunk.js",
+    "main.js.map": "/CyberSecurityWeb/static/js/main.53400f0b.chunk.js.map",
+    "runtime-main.js": "/CyberSecurityWeb/static/js/runtime-main.4a7d04ac.js",
+    "runtime-main.js.map": "/CyberSecurityWeb/static/js/runtime-main.4a7d04ac.js.map",
+    "static/js/2.4eba6417.chunk.js": "/CyberSecurityWeb/static/js/2.4eba6417.chunk.js",
+    "static/js/2.4eba6417.chunk.js.map": "/CyberSecurityWeb/static/js/2.4eba6417.chunk.js.map",
+    "static/js/3.f142fecc.chunk.js": "/CyberSecurityWeb/static/js/3.f142fecc.chunk.js",
+    "static/js/3.f142fecc.chunk.js.map": "/CyberSecurityWeb/static/js/3.f142fecc.chunk.js.map",
+    "index.html": "/CyberSecurityWeb/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/CyberSecurityWeb/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4eba6417.chunk.js.LICENSE.txt": "/CyberSecurityWeb/static/js/2.4eba6417.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CyberSecurityWeb/static/media/logo.6ce24c58.svg",
+    "static/media/photograph.6c06b8eb.png": "/CyberSecurityWeb/static/media/photograph.6c06b8eb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ea0d4a6.js",
+    "static/js/runtime-main.4a7d04ac.js",
     "static/js/2.4eba6417.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f4f6b53a.chunk.js"
+    "static/js/main.53400f0b.chunk.js"
   ]
 }
